@@ -1,0 +1,2 @@
+chat_id=102125458688
+telegram_bot_id=6697665635:AA0kGf6hIBGq2yBhwFFt5UtB6lIBOertbd
